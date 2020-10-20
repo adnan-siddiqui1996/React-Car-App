@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Car-App/static/css/main.50c93e54.chunk.css",
+    "main.js": "/React-Car-App/static/js/main.52d1d4d1.chunk.js",
+    "main.js.map": "/React-Car-App/static/js/main.52d1d4d1.chunk.js.map",
+    "runtime-main.js": "/React-Car-App/static/js/runtime-main.fb6a923d.js",
+    "runtime-main.js.map": "/React-Car-App/static/js/runtime-main.fb6a923d.js.map",
+    "static/css/2.2a86faee.chunk.css": "/React-Car-App/static/css/2.2a86faee.chunk.css",
+    "static/js/2.afaa5b80.chunk.js": "/React-Car-App/static/js/2.afaa5b80.chunk.js",
+    "static/js/2.afaa5b80.chunk.js.map": "/React-Car-App/static/js/2.afaa5b80.chunk.js.map",
+    "index.html": "/React-Car-App/index.html",
+    "precache-manifest.0c81c9cd4123ab2daf4ec5dbb09f83d5.js": "/React-Car-App/precache-manifest.0c81c9cd4123ab2daf4ec5dbb09f83d5.js",
+    "service-worker.js": "/React-Car-App/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/React-Car-App/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.50c93e54.chunk.css.map": "/React-Car-App/static/css/main.50c93e54.chunk.css.map",
+    "static/js/2.afaa5b80.chunk.js.LICENSE.txt": "/React-Car-App/static/js/2.afaa5b80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb6a923d.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.afaa5b80.chunk.js",
+    "static/css/main.50c93e54.chunk.css",
+    "static/js/main.52d1d4d1.chunk.js"
+  ]
+}
